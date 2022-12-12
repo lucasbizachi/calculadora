@@ -7,6 +7,8 @@
 </p>
 
 <h3>Descrição:</h3>
-<p>Projeto básico de um calculadora e, JavaScript.</p>
+<p>Projeto básico de um calculadora em JavaScript.</p>
+
+<img src="assets/calc.gif"/>
 
  
