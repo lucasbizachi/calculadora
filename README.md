@@ -9,6 +9,10 @@
 <h3>Descrição:</h3>
 <p>Projeto básico de um calculadora em JavaScript.</p>
 
+<p>
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=%20Finalizado&color=GREEN&style=for-the-badge"/>
+<p/>
+
 <img src="assets/calc.gif"/>
 
  
