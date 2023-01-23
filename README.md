@@ -6,9 +6,6 @@
  <img src="https://img.shields.io/github/languages/top/lucasbizachi/calculadora?style=social"/>&#160;&#160;
 </p>
 
-<h3>Descrição:</h3>
-<p>Projeto básico de um calculadora em JavaScript.</p>
-
 <p>
    <img src="http://img.shields.io/static/v1?label=STATUS&message=%20Finalizado&color=GREEN&style=for-the-badge"/>
 <p/>
@@ -23,6 +20,9 @@
   <img align="center" alt="" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="" height="40" width="50"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
 </div> </br>
+
+<h3>Projeto:</h3>
+<p>Projeto básico de um calculadora em JavaScript.</p>
 
 <a href="https://lucasbizachi.github.io/calculadora/">Acesse o projeto fonalizado, online.</a>
  
