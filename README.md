@@ -24,5 +24,5 @@
   <img align="center" alt="" height="40" width="50"<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
 </div> </br>
 
-<p>Link do Projeto<a href="https://lucasbizachi.github.io/calculadora/">Calculadora aqui.</a></p>
+<a href="https://lucasbizachi.github.io/calculadora/">Acesse o projeto fonalizado, online.</a>
  
